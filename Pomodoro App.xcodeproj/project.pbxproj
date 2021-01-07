@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2DBB97E025A76A7D0061FD03 /* leisure_video_game_music_level_complete.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2DBB97DF25A76A7D0061FD03 /* leisure_video_game_music_level_complete.mp3 */; };
 		2DE888C525A6ADBD00811ADD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE888C425A6ADBD00811ADD /* AppDelegate.swift */; };
 		2DE888C725A6ADBD00811ADD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE888C625A6ADBD00811ADD /* SceneDelegate.swift */; };
 		2DE888C925A6ADBD00811ADD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE888C825A6ADBD00811ADD /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2DBB97DF25A76A7D0061FD03 /* leisure_video_game_music_level_complete.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = leisure_video_game_music_level_complete.mp3; path = ../../../../../../Downloads/leisure_video_game_music_level_complete.mp3; sourceTree = "<group>"; };
 		2DE888C125A6ADBD00811ADD /* Pomodoro App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pomodoro App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DE888C425A6ADBD00811ADD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2DE888C625A6ADBD00811ADD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				2DE888CD25A6ADBF00811ADD /* Assets.xcassets */,
 				2DE888CF25A6ADBF00811ADD /* LaunchScreen.storyboard */,
 				2DE888D225A6ADBF00811ADD /* Info.plist */,
+				2DBB97DF25A76A7D0061FD03 /* leisure_video_game_music_level_complete.mp3 */,
 			);
 			path = "Pomodoro App";
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DBB97E025A76A7D0061FD03 /* leisure_video_game_music_level_complete.mp3 in Resources */,
 				2DE888D125A6ADBF00811ADD /* LaunchScreen.storyboard in Resources */,
 				2DE888CE25A6ADBF00811ADD /* Assets.xcassets in Resources */,
 				2DE888CC25A6ADBD00811ADD /* Main.storyboard in Resources */,
